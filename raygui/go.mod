@@ -1,4 +1,4 @@
-module github.com/gen2brain/raylib-go/raygui
+module github.com/Tolya05/raygui-go-tesing/raygui
 
 go 1.19
 
